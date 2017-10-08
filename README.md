@@ -1,2 +1,2 @@
 # SH-News-Board
-SH-News-Board is a test project, don't use it since the TEST mention is not remove.
+SH-News-Board is the place where i centralize links and interesting technical and papers related.
